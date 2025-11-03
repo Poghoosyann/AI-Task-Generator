@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+motor
+pydantic
+dotenv
+httpx
+google-genai
+pymongo
+weasyprint
+aiogram
+pydantic
+dotenv
